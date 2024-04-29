@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "ID": "f1234353453",
+  "Issue Number": "1",
+  "Client": {
+    "Name": "Craig Pady",
+    "Region": "United States",
+    "Industry": "IT & Technology Services",
+    "Website": "filstor.com",
+    "Social Media": "https://www.linkedin.com/company/doppelhq/about/",
+    "Social Media Type": "Other",
+    "Role": "Data onramp entity that provides data onboarding services to multiple clients"
+  },
+  "Project": {
+    "Project Id": "1234",
+    "Brief history of your project and organization": "NA test",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "medical stuff",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "link to a page or meeting to show data",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "list them",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "20TiB",
+    "Single Size Dataset": "10TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "1TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-04-29 18:29:32.324394954 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1234353453",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
