@@ -35,11 +35,11 @@
     "Weekly Allocation": "10TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-10-22 19:54:12.909013440 UTC",
     "Validated By": "maramc8",
     "Active": true,
-    "Updated At": "2024-10-22 19:54:12.909018018 UTC",
+    "Updated At": "2024-10-22 19:57:31.943908617 UTC",
     "Active Request ID": "e7490eb1-ea73-4912-804b-8fd7bfc52f09",
     "On Chain Address": "f3svofl4tx75ttb7jk7j657fqrhxqj63jvkwhskm4m34pgmovukjpxgayv3lolzvp465k627ellvzye5dzwikq",
     "Multisig Address": "false",
@@ -83,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2024-10-22 19:54:12.909024039 UTC",
       "Updated At": "2024-10-22 19:54:12.909025341 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "40TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "maramc8",
+          "Signing Address": "f1faxlphnxerrzn7pxiveqmylxq7rjzugwn54xpli",
+          "Created At": "2024-10-22 19:57:30.391000000 UTC",
+          "Message CID": "bafy2bzaceasnqzkdfycfm277uwfko6g3zlmtxz4p7efcxzpior7vwgxlnaqvq"
+        }
+      ]
     }
   ]
 }
